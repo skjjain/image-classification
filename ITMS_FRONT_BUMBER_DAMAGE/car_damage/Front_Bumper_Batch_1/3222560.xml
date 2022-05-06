@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Front_Bumper_Batch_1</folder>
+	<filename>3222560.jpg</filename>
+	<path>/Users/saurabhjain/INSURANCE/image-classification/ITMS_FRONT_BUMBER_DAMAGE/car_damage/Front_Bumper_Batch_1/3222560.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>477</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Broken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>425</ymin>
+			<xmax>83</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

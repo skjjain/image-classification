@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>Front_Bumper_Batch_1</folder>
+	<filename>3167528.jpg</filename>
+	<path>/Users/saurabhjain/INSURANCE/image-classification/ITMS_FRONT_BUMBER_DAMAGE/car_damage/Front_Bumper_Batch_1/3167528.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

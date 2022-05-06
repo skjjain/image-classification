@@ -1,0 +1,5 @@
+python voc2coco.py \
+    --ann_paths_list paths.txt \
+    --labels classes.txt \
+    --output output.json \
+    --ext xml
